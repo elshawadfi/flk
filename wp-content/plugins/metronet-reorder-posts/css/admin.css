@@ -1,0 +1,92 @@
+#post-list {
+	margin-top: 20px;
+	border: 1px solid #e5e5e5;
+}
+#post-list div {
+	
+}
+#post-list div:hover {
+	
+}
+#post-list .non-hierarchical {
+	padding-left: 20px;
+}
+#post-list li {
+	background: #FFF;
+	margin-bottom: 0;
+	border-top: 1px solid #e1e1e1;
+	clear: both;
+	overflow: hidden;
+}
+#post-list > li:first-child {
+	border-top: 0;
+}
+#post-list > li:last-child {
+	border-bottom: 1px solid #e1e1e1;
+}
+#post-list div img {
+	vertical-align: middle;
+	margin: 0 12px 0 0;
+	border: 2px solid #ddd;
+}
+.row-action {
+	float: left;
+    margin: 0px 10px 0 0;
+    width: 40px;
+    height: 40px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+.expand.row-action span,
+.collapse.row-action span {
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	background: #FFF;
+	-webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 1px solid #e1e1e1;
+    font-size: 24px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.expand.row-action span:hover,
+.collapse.row-action span:hover {
+	border-color: #c0c0c0;
+}
+.row-content {
+	padding: 10px 0;
+	font-weight: 700;
+	cursor: move;
+}
+.row-content:hover {
+	background: #FBFBFB;
+}
+.ui-sortable-placeholder {
+	border-radius: 0 !important;
+	background: transparent !important;
+	border: 2px dashed #ddd !important;
+	visibility: visible !important;
+}
+#loading-animation {
+	display: none;
+	float: right;
+    border: 0 !important;
+}
+#post-list .children {
+	display: none;
+}
+.page-numbers {
+	display: inline-block;
+	padding: 5px 10px;
+	margin: 0 2px 0 0;
+	border: 1px solid #eee;
+	line-height: 1;
+	text-decoration: none;
+	border-radius: 2px;
+	font-weight: 600;
+}
+.page-numbers.current,
+a.page-numbers:hover {
+	background: #e1e1e1;
+}

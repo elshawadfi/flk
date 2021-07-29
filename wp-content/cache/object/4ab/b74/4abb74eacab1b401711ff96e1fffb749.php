@@ -1,0 +1,7 @@
+tN[`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:588;s:11:"post_author";s:1:"3";s:9:"post_date";s:19:"2021-03-13 18:33:38";s:13:"post_date_gmt";s:19:"2021-03-13 18:33:38";s:12:"post_content";s:359:"<!-- wp:paragraph -->
+<p>A compact and convenient water dispenser for your kitchen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Features:Made of high quality FDA Grade PP PolymerNon dust adhesiveNo water leakage and low costEasy to install without using any toolsDimension: 27 x 28 cmCan hold 400ml or 5 gallon water bottle</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:37:"Sure Table Top Manual Water Dispenser";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:37:"sure-table-top-manual-water-dispenser";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2021-03-13 18:33:38";s:17:"post_modified_gmt";s:19:"2021-03-13 18:33:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:53:"https://www.flosakk.com/?post_type=coupons&#038;p=588";s:10:"menu_order";i:0;s:9:"post_type";s:7:"coupons";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

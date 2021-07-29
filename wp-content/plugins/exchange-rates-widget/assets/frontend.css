@@ -1,0 +1,13 @@
+.erw-base-currency-link,
+.erw-base-currency-link:focus,
+.erw-base-currency-link:visited,
+.erw-base-currency-link:hover,
+.erw-base-currency-link:visited:hover {
+    color: inherit !important;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+}
+
+.erw-iframe {
+    margin: 0;
+}

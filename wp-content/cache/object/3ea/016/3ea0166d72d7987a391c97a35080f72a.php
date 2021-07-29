@@ -1,0 +1,1 @@
+çL[`<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1615760612:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:19:"_advads_ad_settings";a:1:{i:0;s:29:"a:1:{s:11:"disable_ads";i:0;}";}s:43:"_yoast_wpseo_estimated-reading-time-minutes";a:1:{i:0;s:1:"0";}s:17:"_wp_page_template";a:1:{i:0;s:18:"page-offer-day.php";}}}

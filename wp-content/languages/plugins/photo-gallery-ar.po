@@ -1,0 +1,258 @@
+# Translation of Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-25 04:34:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release)\n"
+
+#: addons/addons.php:65
+msgid "GET THIS ADD ON"
+msgstr "الحصول على الملحقات الإضافية"
+
+#: addons/addons.php:13
+msgid "Photo Gallery Export / Import"
+msgstr "تصدير / استيراد Photo Gallery"
+
+#: addons/addons.php:32
+msgid "Photo Gallery Add-ons"
+msgstr "ملحقات Photo Gallery الإضافية"
+
+#: addons/addons.php:6
+msgid "NextGen Gallery Import to Photo Gallery"
+msgstr "استيراد NextGen Gallery إلى Photo Gallery"
+
+#: addons/addons.php:8
+msgid "This addon integrates NextGen with Photo Gallery allowing to import images and related data from NextGen to use with Photo Gallery"
+msgstr "هذا الملحق يدمج NextGen مع Photo Gallery مما يسمح باستيراد الصور والبيانات ذات الصلة من NextGen لاستخدامها مع Photo Gallery"
+
+#: framework/howto/data.php:79
+msgid "Attention:"
+msgstr "ملاحظة:"
+
+#: frontend/views/view.php:678
+msgid " item(s)"
+msgstr "البند (ق)"
+
+#: frontend/views/view.php:683 admin/views/Widget.php:159
+msgid "First"
+msgstr " أولا"
+
+#: frontend/views/view.php:686 admin/views/Widget.php:160
+msgid "Last"
+msgstr "آخر"
+
+#: frontend/views/view.php:705
+msgid "Go to the first page"
+msgstr "  انتقل إلى الصفحة الأولى"
+
+#: frontend/views/view.php:405 admin/views/Galleries.php:748
+#: admin/views/Themes.php:352 admin/views/Options.php:53
+#: framework/WDWLibrary.php:373 framework/WDWLibrary.php:549
+#: framework/WDWLibrary.php:2605
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: admin/views/AdminView.php:218 photo-gallery.php:1429
+#: framework/WDWLibrary.php:372 framework/WDWLibrary.php:548
+msgid "Search"
+msgstr "البحث"
+
+#: admin/views/Themes.php:200 admin/views/Themes.php:231
+#: admin/views/Themes.php:298 admin/views/Options.php:945
+#: admin/views/Options.php:1327 admin/views/Options.php:1553
+#: admin/views/Options.php:1787 admin/views/Options.php:1982
+#: admin/views/Options.php:2220 admin/views/Options.php:2377
+#: admin/views/Options.php:2552 admin/views/Options.php:2761
+#: admin/views/Options.php:2778 admin/views/Options.php:3059
+#: admin/views/Options.php:3076 admin/views/Options.php:3297
+#: admin/views/Options.php:3314 admin/views/Shortcode.php:429
+msgid "Default"
+msgstr "افتراضي"
+
+#: frontend/views/view.php:458 admin/views/Galleries.php:651
+#: admin/views/Galleries.php:719 admin/views/Options.php:1330
+#: admin/views/Options.php:1556 admin/views/Options.php:1790
+#: admin/views/Options.php:1985 admin/views/Options.php:2223
+#: admin/views/Options.php:2380 admin/views/Options.php:2555
+#: admin/views/Options.php:2781 admin/views/Options.php:3079
+#: admin/views/Options.php:3317
+msgid "Filename"
+msgstr "اسم الملف"
+
+#: frontend/views/view.php:461 admin/views/Galleries.php:732
+#: admin/views/Options.php:1331 admin/views/Options.php:1557
+#: admin/views/Options.php:1791 admin/views/Options.php:1986
+#: admin/views/Options.php:2224 admin/views/Options.php:2381
+#: admin/views/Options.php:2556 admin/views/Options.php:2782
+#: admin/views/Options.php:3080 admin/views/Options.php:3318
+#: filemanager/view.php:154
+msgid "Size"
+msgstr "حجم"
+
+#: photo-gallery.php:1426
+msgid "There are no images matching your search."
+msgstr "لا توجد صور تتوافق مع البحث."
+
+#: frontend/views/BWGViewAlbum_extended_preview.php:161
+msgid "Hide"
+msgstr "إخفاء"
+
+#: frontend/views/BWGViewGalleryBox.php:645
+msgid "The image has been deleted."
+msgstr "تم حذف الصورة"
+
+#: frontend/views/BWGViewGalleryBox.php:788 photo-gallery.php:1435
+msgid "Maximize"
+msgstr "تعظيم"
+
+#: frontend/views/BWGViewGalleryBox.php:792 photo-gallery.php:1436
+msgid "Fullscreen"
+msgstr "ملء الشاشة"
+
+#: frontend/views/BWGViewGalleryBox.php:794 photo-gallery.php:1448
+msgid "Show info"
+msgstr "تظهر المعلومات"
+
+#: frontend/views/BWGViewGalleryBox.php:835
+msgid "Open image in original size."
+msgstr "صورة مفتوحة في حجمها الأصلي"
+
+#: frontend/views/BWGViewGalleryBox.php:850
+msgid "Download original image"
+msgstr "تحميل الصورة الأصلية"
+
+#: photo-gallery.php:1432
+msgid "Show Comments"
+msgstr " عرض التعليقات"
+
+#: frontend/views/BWGViewGalleryBox.php:996 photo-gallery.php:1433
+msgid "Hide Comments"
+msgstr "إخفاء التعليقات"
+
+#: photo-gallery.php:1447
+msgid "Hide info"
+msgstr "إخفاء المعلومات"
+
+#: photo-gallery.php:1434
+msgid "Restore"
+msgstr "استعادة"
+
+#: photo-gallery.php:1437
+msgid "Exit Fullscreen"
+msgstr "خروج ملء الشاشة"
+
+#: frontend/controllers/controller.php:281
+#: frontend/controllers/controller.php:315
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "لا توجد المعرض المحددة أو تم حذف المعرض"
+
+#: photo-gallery.php:1425
+msgid "This is not a valid email address."
+msgstr "هذا ليس عنوان بريد إلكتروني صحيح."
+
+#: frontend/views/view.php:684
+msgid "Previous"
+msgstr "السابق"
+
+#: frontend/views/view.php:685
+msgid "Next"
+msgstr "التالي"
+
+#: frontend/views/BWGViewGalleryBox.php:784
+#: frontend/views/BWGViewThumbnails.php:41 photo-gallery.php:1442
+#: photo-gallery.php:1445
+msgid "Play"
+msgstr "تشغيل"
+
+#: frontend/views/BWGViewAlbum_extended_preview.php:160
+#: frontend/views/BWGViewAlbum_extended_preview.php:163
+msgid "More"
+msgstr "المزيد"
+
+#: frontend/views/view.php:710 admin/views/AdminView.php:288
+#: framework/WDWLibrary.php:502 framework/WDWLibrary.php:649
+msgid "of"
+msgstr "من"
+
+#: photo-gallery.php:631 photo-gallery.php:1424
+msgid "field is required."
+msgstr "الحقل مطلوب."
+
+#: frontend/views/view.php:706
+msgid "Go to the previous page"
+msgstr "الانتقال إلى الصفحة السابقة"
+
+#: frontend/views/view.php:717
+msgid "Go to the next page"
+msgstr "الانتقال إلى الصفحة التالية"
+
+#: frontend/views/view.php:718
+msgid "Go to the last page"
+msgstr "الانتقال إلى الصفحة الأخيرة"
+
+#: filemanager/view.php:133
+msgid "Order by:"
+msgstr "ترتيب حسب:"
+
+#: frontend/views/view.php:731
+msgid "Load More..."
+msgstr "تحميل المزيد..."
+
+#: wd/includes/notices.php:208
+msgid "Leave A Review?"
+msgstr "ترك مراجعة؟"
+
+#: wd/includes/notices.php:212
+msgid "Maybe Later"
+msgstr "ربما لاحقًا"
+
+#. Plugin Name of the plugin
+#: admin/views/Widget.php:97 photo-gallery.php:111
+msgid "Photo Gallery"
+msgstr "Photo Gallery"
+
+#: wd/includes/notices.php:210
+msgid "Sure! I'd love to!"
+msgstr "بالتأكيد! أودّ ذلك!"
+
+#: wd/includes/notices.php:211
+msgid "I've already left a review"
+msgstr "لقد تركت مراجعة بالفعل"
+
+#: wd/includes/notices.php:213
+msgid "Never show again"
+msgstr "عدم الإظهار مرة أخرى"
+
+#: wd/includes/notices.php:209
+msgid "We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on WordPress.org?"
+msgstr "نأمل بأنك مستمتع باستخدامك لـ ووردبريس %s! هل تفكر في ترك مراجعة لنا  WordPress.org؟"
+
+#: frontend/views/view.php:271 filemanager/view.php:231
+msgid "Back"
+msgstr "رجوع"
+
+#: photo-gallery.php:1443 photo-gallery.php:1446
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+#: frontend/views/view.php:464 admin/views/Widget.php:158
+#: admin/views/Options.php:1258 admin/views/Options.php:1332
+#: admin/views/Options.php:1558 admin/views/Options.php:1792
+#: admin/views/Options.php:1987 admin/views/Options.php:2225
+#: admin/views/Options.php:2382 admin/views/Options.php:2557
+#: admin/views/Options.php:2763 admin/views/Options.php:2783
+#: admin/views/Options.php:3061 admin/views/Options.php:3081
+#: admin/views/Options.php:3299 admin/views/Options.php:3319
+#: admin/controllers/WidgetSlideshow.php:59
+msgid "Random"
+msgstr "عشوائي"
+
+#: frontend/controllers/controller.php:92
+msgid "There is no album selected or the gallery was deleted."
+msgstr "لا يوجد ألبوم محدد أو تم حذف المعرض."

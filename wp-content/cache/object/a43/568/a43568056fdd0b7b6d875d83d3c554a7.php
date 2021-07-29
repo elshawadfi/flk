@@ -1,0 +1,7 @@
+YN[`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:711;s:11:"post_author";s:1:"3";s:9:"post_date";s:19:"2021-03-17 13:31:25";s:13:"post_date_gmt";s:19:"2021-03-17 13:31:25";s:12:"post_content";s:512:"<!-- wp:heading {"level":5} -->
+<h5>شروط الكاش باك</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><small>- تأكد من استخدام كوبونات الخصم من فلوسك.<br>- تأكد من أن فلوسك هو الرابط الأخير الذي قمت بالضغط عليه قبل إجراء الحجز.<br>- في كل مرة تقوم فيها بحجز جديد، تأكد من العودة إلى فلوسك  والضغط على رابط Booking.com.</small></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:35:"حجوزات الفنادق ٪ 2.83";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:91:"%d8%ad%d8%ac%d9%88%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d8%af%d9%82-%d9%aa-2-83";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2021-03-17 13:37:01";s:17:"post_modified_gmt";s:19:"2021-03-17 13:37:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:53:"https://www.flosakk.com/?post_type=coupons&#038;p=711";s:10:"menu_order";i:0;s:9:"post_type";s:7:"coupons";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,372 @@
+.breeze-input-group .blur {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.breeze-notice {
+    background-color: #FFF;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+    border: 1px solid #CCC;
+}
+
+.breeze-header {
+    width: 200px;
+}
+
+.breeze-header .breeze-logo {
+    background-image: url("../images/breez-logo200x46.png");
+    height: 70px;
+    background-repeat: no-repeat;
+}
+
+.breeze-header a {
+    text-decoration: none;
+    color: #000;
+}
+
+#breeze-inherit-settings-toggle .radio-field {
+	margin-bottom: 20px;
+}
+#breeze-inherit-settings-toggle .radio-field input,
+#breeze-inherit-settings-toggle .radio-field strong {
+	vertical-align: bottom;
+}
+#breeze-inherit-settings-toggle.loading .radio-field {
+	opacity: 0.4;
+	pointer-events: none;
+}
+#breeze-inherit-settings-toggle label {
+	display: block;
+	margin-bottom: 5px;
+}
+#breeze-inherit-settings-toggle .radio-field strong {
+	font-weight: 500;
+}
+#breeze-inherit-settings-toggle .radio-field.active strong:after {
+	content: ' [ACTIVE]';
+	font-weight: bold;
+}
+#breeze-inherit-settings-toggle small {
+	display: block;
+	font-size: inherit;
+	margin-left: 24px;
+	max-width: 804px;
+}
+#breeze-inherit-settings-toggle p.disclaimer {
+	display: none;
+	color: #ff0000;
+}
+
+#breeze-tabs.tabs-hidden .nav-tab.inactive,
+#breeze-tabs.tabs-hidden .nav-tab.inactive:not(.active):hover {
+	color: #888;
+	background: #f4f4f4;
+}
+
+#breeze-tabs-content.tabs-hidden .tab-pane.inactive,
+#breeze-tabs-content.tabs-hidden .tab-pane.inactive .tab-child {
+	min-height: 180px;
+	position: relative;
+}
+#breeze-tabs-content.tabs-hidden .tab-pane.inactive .tab-child:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #fff;
+	background-color: rgba( 255, 255, 255, 0.95 );
+}
+#breeze-tabs-content .tab-pane .hidden-text {
+	display: none;
+}
+#breeze-tabs-content.tabs-hidden .tab-pane.inactive .hidden-text {
+	position: absolute;
+	top: 100px;
+	left: 0;
+	right: 0;
+	text-align: center;
+	color: #ff0000;
+	display: block;
+}
+#tab-content-database .tab-child {
+	padding-bottom: 0;
+}
+#breeze-database-optimize {
+	margin-top: 5px;
+}
+#breeze-database-optimize[disabled] {
+	color: #fff !important;
+	border-color: #ddd !important;
+	background-color: #e0e0e0 !important;
+	text-shadow: none !important;
+}
+
+#breeze-tabs {
+    border-bottom: none;
+}
+
+#breeze-tabs .nav-tab.active {
+    background-color: #FFF;
+    color: #464646;
+}
+
+.tab-child {
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid #CCC;
+    padding: 10px 10px 30px 10px
+}
+
+#breeze-tabs-content .tab-pane {
+    display: none;
+    float: left;
+    width: 80%;
+}
+
+#breeze-tabs-content .tab-pane.active {
+    display: block
+}
+
+.tab-content {
+    overflow: auto;
+}
+
+.tabs-below > .nav-tabs,
+.tabs-right > .nav-tabs,
+.tabs-left > .nav-tabs {
+    border-bottom: 0;
+}
+
+.tab-content > .tab-pane {
+    display: none;
+}
+
+.tab-content > .active {
+    display: block;
+}
+
+.breeze-form .multisite-inherit-disclaimer {
+	margin-top: 35px;
+	margin-bottom: 0;
+	color: #ff0000;
+}
+
+.breeze-form .multisite-inherit-disclaimer + .submit {
+	margin-top: 0;
+}
+
+.breeze-form .submit {
+	margin-top: 35px;
+}
+
+/*Table*/
+#breeze-tabs-content table tr td:first-child {
+    width: 20%;
+    font-weight: bold;
+}
+
+#breeze-tabs-content table tr td.last-td {
+    font-weight: normal;
+    padding-top: 30px;
+}
+
+#breeze-tabs-content table tr td {
+    vertical-align: top;
+    padding: 3px;
+}
+
+#breeze-tabs-content table ul {
+    margin: 0;
+}
+
+#breeze-tabs-content table tr td label {
+    vertical-align: top;
+}
+
+#breeze-tabs-content table tr td.input-middle {
+    vertical-align: middle;
+}
+
+.breeze-top-notice {
+    margin: 10px 0 5px 0;
+}
+
+.breeze-top-notice p {
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.breeze_tool_tip {
+    vertical-align: middle !important;
+}
+
+.ui-accordion-header:after {
+    font-family: dashicons;
+    content: "\f347";
+    float: right;
+}
+
+.ui-accordion-header[aria-expanded='true']:after {
+    content: "\f343";
+}
+
+.tab-child textarea {
+    width: 95%;
+    max-width: 630px;
+}
+
+.breeze-list-url .breeze-input-group {
+    white-space: nowrap;
+}
+
+.breeze-input-group .breeze-input-url {
+    width: 85%;
+    max-width: 560px;
+}
+
+.breeze-input-group span {
+    vertical-align: text-bottom;
+    cursor: pointer;
+}
+
+.breeze-input-group span.sort-handle {
+    cursor: move;
+}
+
+.breeze-input-group span.sort-handle span.moveUp:before,
+.breeze-input-group span.sort-handle span.moveDown:before {
+    font-size: 30px;
+    margin-left: -7px;
+}
+
+/*Style for FAQ tab*/
+#breeze-tabs-content #tab-content-faq {
+    width: 100%;
+}
+
+#faq-content {
+    margin: 20px;
+}
+
+.faq-block {
+    border: 1px solid;
+    border-color: #eee transparent;
+    padding-bottom: 10px;
+}
+
+.faq-question {
+    cursor: pointer;
+    margin: 0;
+    padding: 1em 0;
+}
+
+.faq-question:focus {
+    outline: none;
+}
+
+.faq-answer * {
+    font-size: 14px;
+}
+
+/*Right-side content*/
+#breeze-and-cloudways {
+    display: none;
+    float: left;
+    max-width: calc(20% - 20px);
+    margin-left: 20px;
+}
+
+#breeze-and-cloudways .rs-title {
+    padding: 0 5px 10px;
+    margin: 0;
+    border-bottom: 1px solid #11acdf;
+    color: #11acdf;
+    font-size: 20px;
+    line-height: 120%;
+    margin-bottom: 15px;
+}
+
+#breeze-and-cloudways .rs-content {
+    margin-bottom: 15px;
+}
+
+#breeze-and-cloudways .rs-content:not(:last-child) {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+#breeze-and-cloudways .rs-content p {
+    color: #000;
+    margin: 0 0 15px;
+}
+
+#breeze-and-cloudways .rs-content h4 {
+    margin: 0 0 5px;
+    color: #000;
+}
+
+#breeze-and-cloudways .rs-content ul {
+    list-style: disc;
+    margin: 15px 0 15px 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+#breeze-and-cloudways .rs-content ul li {
+    margin-bottom: 10px;
+}
+
+#breeze-and-cloudways .rs-content button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.breeze-submit-btn:focus{
+    box-shadow:none;
+}
+
+#breeze_import_settings {
+    color: transparent;
+    width: 140px;
+}
+#breeze_import_settings::-webkit-file-upload-button {
+    visibility: hidden;
+}
+#breeze_import_settings::before {
+    content: 'Select JSON file';
+    color: black;
+    display: inline-block;
+    background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    cursor: pointer;
+    text-shadow: 1px 1px #fff;
+    font-weight: 700;
+    font-size: 10pt;
+}
+#breeze_import_settings:hover::before {
+    border-color: black;
+}
+#breeze_import_settings:active {
+    outline: 0;
+}
+#breeze_import_settings:active::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+.file_green{
+    color: darkgreen;
+}
+
+.file_red{
+    color:darkred;
+}
